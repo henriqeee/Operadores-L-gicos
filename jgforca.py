@@ -1,3 +1,5 @@
+#Simulando Jogo da Forca
+
 import random
 
 def escolher_palavra():
